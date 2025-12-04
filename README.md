@@ -2,7 +2,6 @@
 This project focuses on analyzing customer engagement data to uncover patterns, trends, and actionable insights.   The goal is to understand customer behavior, identify key drivers of engagement, and provide recommendations that can improve retention, satisfaction, and overall business performance.
 
 ## Dataset
-- File: `Customer Engagement Analysis.xlsx`  
 - Contains multiple sheets with transaction, demographic, and engagement metrics.  
 - Data includes customer IDs, purchase history, activity logs, and engagement scores.  
 
